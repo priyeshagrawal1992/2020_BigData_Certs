@@ -30,10 +30,10 @@ https://www.linkedin.com/pulse/5-tips-cracking-databricks-apache-spark-certifica
 
 
 
-Databricks Notebooks:
-
+# Databricks Notebooks:
 
 https://docs.databricks.com/getting-started/spark/quick-start.html#get-started-with-apache-spark
+https://docs.databricks.com/notebooks/notebooks-use.html#language-magic
 
 
 # Spark SQL DataFrame  :
