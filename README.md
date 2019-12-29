@@ -1,7 +1,8 @@
 # 2020_BigData_Certs
 
 
-AWS  BigData Certs: 
+# AWS  BigData Certs: 
+
 https://aws.amazon.com/training/course-descriptions/bigdata/
 
 https://medium.com/@javier.ramos1/aws-big-data-certification-exam-tips-59dd06be6719
@@ -14,7 +15,12 @@ https://www.udemy.com/course/aws-big-data/?utm_source=adwords&utm_medium=udemyad
 
 
 
-Databricks Certs: 
+# Databricks Certs: 
+
+
+# Databricks Introduction :
+https://towardsdatascience.com/sql-at-scale-with-apache-spark-sql-and-dataframes-concepts-architecture-and-examples-c567853a702f?
+
 
 https://pages.databricks.com/SparkCertifiedDeveloper.html
    
