@@ -73,6 +73,13 @@ i) Scala: https://docs.databricks.com/_static/notebooks/delta/quickstart-scala.h
 
 ii) Python: https://docs.databricks.com/_static/notebooks/delta/quickstart-python.html
 
+
+# Snowflake Integration with Databricks:
+https://databricks.com/blog/2018/08/27/by-customer-demand-databricks-and-snowflake-integration.html
+https://docs.databricks.com/data/data-sources/snowflake.html
+https://docs.databricks.com/_static/notebooks/snowflake-scala.html
+
+
 # Graph:
 https://docs.databricks.com/spark/latest/graph-analysis/index.html
 
