@@ -32,12 +32,16 @@ https://www.linkedin.com/pulse/5-tips-cracking-databricks-apache-spark-certifica
 
 # Databricks Notebooks:
 
+https://databricks.com/resources/type/example-notebook
+
 https://docs.databricks.com/getting-started/spark/quick-start.html#get-started-with-apache-spark
+
 https://docs.databricks.com/notebooks/notebooks-use.html#language-magic
 
 
 # Spark SQL DataFrame  :
 https://databricks.com/glossary/what-is-spark-sql
+
 https://docs.databricks.com/spark/latest/dataframes-datasets/index.html
 
 
@@ -51,6 +55,7 @@ https://docs.databricks.com/data/index.html
 https://docs.databricks.com/spark/latest/structured-streaming/index.html#structured-streaming
   
 i) Scala:  https://docs.databricks.com/_static/notebooks/structured-streaming-scala.html
+
 ii) Python:  https://docs.databricks.com/_static/notebooks/structured-streaming-python.html
 
 # ML:(Machine Learning) : 
@@ -61,6 +66,7 @@ https://docs.databricks.com/applications/machine-learning/index.html
 https://docs.databricks.com/delta/index.html#delta-lake
 
 i) Scala: https://docs.databricks.com/_static/notebooks/delta/quickstart-scala.html
+
 ii) Python: https://docs.databricks.com/_static/notebooks/delta/quickstart-python.html
 
 # Graph:
