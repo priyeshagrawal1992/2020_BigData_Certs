@@ -37,6 +37,7 @@ https://docs.databricks.com/notebooks/notebooks-use.html#language-magic
 
 
 # Spark SQL DataFrame  :
+https://databricks.com/glossary/what-is-spark-sql
 https://docs.databricks.com/spark/latest/dataframes-datasets/index.html
 
 
