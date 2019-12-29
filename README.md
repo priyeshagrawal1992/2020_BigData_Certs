@@ -58,6 +58,10 @@ i) Scala:  https://docs.databricks.com/_static/notebooks/structured-streaming-sc
 
 ii) Python:  https://docs.databricks.com/_static/notebooks/structured-streaming-python.html
 
+
+# foreachBatch Statement Write into Casssandr,RDBMS,DynamoDB,AWS CloudTrail
+https://docs.databricks.com/spark/latest/structured-streaming/examples.html
+
 # ML:(Machine Learning) : 
 https://docs.databricks.com/applications/machine-learning/index.html
 
