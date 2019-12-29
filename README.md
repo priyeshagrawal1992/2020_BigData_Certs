@@ -1,2 +1,2 @@
-# 2020_BigData_Certifications
-2020_BigData_Certifications
+# 2020_BigData_Certs
+2020_BigData_Certs
