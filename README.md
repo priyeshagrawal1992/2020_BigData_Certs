@@ -49,10 +49,8 @@ https://docs.databricks.com/data/index.html
 # Spark Structured Streaming : 
 https://docs.databricks.com/spark/latest/structured-streaming/index.html#structured-streaming
   
-# Scala: 
-https://docs.databricks.com/_static/notebooks/structured-streaming-scala.html
-# Python: 
-https://docs.databricks.com/_static/notebooks/structured-streaming-python.html
+i) Scala:  https://docs.databricks.com/_static/notebooks/structured-streaming-scala.html
+ii) Python:  https://docs.databricks.com/_static/notebooks/structured-streaming-python.html
 
 # ML:(Machine Learning) : 
 https://docs.databricks.com/applications/machine-learning/index.html
@@ -61,10 +59,8 @@ https://docs.databricks.com/applications/machine-learning/index.html
 
 https://docs.databricks.com/delta/index.html#delta-lake
 
-# Scala: 
-https://docs.databricks.com/_static/notebooks/delta/quickstart-scala.html
-# Python: 
-https://docs.databricks.com/_static/notebooks/delta/quickstart-python.html
+i) Scala: https://docs.databricks.com/_static/notebooks/delta/quickstart-scala.html
+ii) Python: https://docs.databricks.com/_static/notebooks/delta/quickstart-python.html
 
 # Graph:
 https://docs.databricks.com/spark/latest/graph-analysis/index.html
